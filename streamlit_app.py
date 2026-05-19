@@ -12,7 +12,7 @@ This is some _markdown_.
 '''
 
 import pandas as pd
-df = pd.DataFrame({'col1': [1,2,3]})
+df = pd.DataFrame({'col1': [1,2,3,4]})
 df  # 👈 Draw the dataframe
 
 x = 10
